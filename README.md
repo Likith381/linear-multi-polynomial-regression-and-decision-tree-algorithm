@@ -1,1 +1,0 @@
-# linear-multi-polynomial-regression-and-decision-tree-algorithm
